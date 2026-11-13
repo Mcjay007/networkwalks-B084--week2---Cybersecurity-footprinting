@@ -152,12 +152,14 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![nslookup output](screenshots/3_nslookup.png)
 
-![curl output](screenshots/4_curl.png)
+![curl output](IMG_20261112_140045.jpg)
 
 ![wafw00f output](screenshots/5_wafw00f.png)
 
-![dnsrecon output](screenshots/7_zenmap.png)
+![dnsrecon output](IMG_20261112_140621.jpg)
 
 ![Zenmap scan and topology](screenshots/8_zenmap2.png)
+
+
 
 -End-
